@@ -1,0 +1,3 @@
+[submodule "thirdparty/av"]
+	path = thirdparty/av
+	url = https://github.com/dkolmakov/av.git
