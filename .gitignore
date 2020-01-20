@@ -1,8 +1,8 @@
-build/
-builds/
+build*
 
 *.kdev4
 *.testdb
 src/version.hpp
 pkgs/nix/hm.nix
 __pycache__
+

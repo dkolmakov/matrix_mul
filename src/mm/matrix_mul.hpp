@@ -7,7 +7,7 @@
 #include "common.hpp"
 
 namespace matrix_mul {
-
+    
     template<class T> 
     struct test_function {
 
